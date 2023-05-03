@@ -4,7 +4,7 @@
         "direction": "ltr",
         "modeSwitchEnabled": true,
         "modeDefault": "light",
-        "assetsDir": "/assets/",
+        "assetsDir": "/app/assets/",
         "iconType": "duotone",
         "assets": {
             "favicon": "media/logos/favicon.ico",
