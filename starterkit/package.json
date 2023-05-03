@@ -1,13 +1,13 @@
 {
-  "name": "express-validator-tut",
+  "name": "wsarachai-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is Mr.Watcharin Sarachai's site",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "",
+  "author": "Watcharin Sarachai",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.3",
